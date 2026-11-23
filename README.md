@@ -19,7 +19,7 @@ Since 2023 I have designed, built and deployed five working systems on my own, f
 | **[SocialAuto](https://github.com/iftikhar-ahmed-ai/socialauto-showcase)** | Posts product pictures to a Facebook Page and Instagram at the same time every 8 hours, with hashtags by category; admin website to add products. **Running in production: 59 posts, 0 failed** | n8n · Meta Graph API · PHP · MySQL |
 | **[EatStack](https://github.com/iftikhar-ahmed-ai/eatstack-showcase)** — [user guide](https://eatstack.click/help/) | Multi-tenant food-commerce SaaS: menus, orders, kitchen, counter, delivery, billing, plus an Android marketplace app (~26,000 lines) | Claude Code · PHP · MariaDB · Flutter · REST |
 | **[SKT Doctors](https://github.com/iftikhar-ahmed-ai/skt-doctors-showcase)** — [sktdoctors.com](https://sktdoctors.com) | Multi-tenant hospital appointment platform, 4 hospitals live, each on its own branded site | Claude Code · PHP · MariaDB · n8n · WhatsApp |
-| **SmartHome** | Controls IoT switches on the local network with no vendor cloud; tested on nine real devices | Claude Code · Flutter · MQTT · TCP |
+| **[SmartHome](https://github.com/iftikhar-ahmed-ai/smarthome-showcase)** | Controls IoT switches on the local network with no vendor cloud; tested on nine real devices | Claude Code · Flutter · MQTT · TCP |
 
 ---
 
